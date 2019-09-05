@@ -1,5 +1,5 @@
 ﻿
-#region variables
+#region variables - Fill out the below values prior to running the script.
 $stringBuilder = New-Object System.Text.StringBuilder
                                                             
 [string]    $LoginName =                   ""                                           # Azure username, something@something.onmicrosoft.com 
